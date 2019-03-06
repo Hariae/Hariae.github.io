@@ -7,16 +7,16 @@ name: Arivoli
 title: Student at San Jose State University
 email: aehari2010@gmail.com
 phone: (669) 274-8644
-website: Your website (eg. https://google.com)(optional)
+website: https://hariae.github.io/
 
 # Social links
 #twitter_username: jekyllrb
 github_username:  Hariae
 #dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+facebook_username: hari98
+#flickr_username: jekyll
 #instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: Arivoli A E
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -24,7 +24,7 @@ flickr_username: jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/white-wallpaper-14.jpg
+about_profile_image: images/9653296.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -45,10 +45,14 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+Skills: | # this will include new lines to allow paragraphs
+  #This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Programming: JAVA, C# .NET, Node (Express), React, Redux, Angular, HTML5, CSS, jQuery, ES6, JavaScript
+  Technologies: Kafka, Azure, AWS, GraphQL, Docker, Kubernetes, Mocha, JUnit, Jest, EPiServer CMS, microservices
+  Database: SQL Server, MySQL, MongoDB, NoSQL
+  Tools: JMeter, JIRA, Confluence, Git, IIS, MS Visual Studio, Eclipse, VS Code
 
 # Footer
 footer_show_references: true
