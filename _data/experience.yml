@@ -1,4 +1,13 @@
 # Experience template
+- company: Aspire Systems Inc
+  #link: Link to company (optional)
+  job_title: Software Analyst
+  dates: June 2016 to June 2018
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    As a Software Analyst I was involved in requirements gathering and managing client interactions. Involved in development, integration and deployment. Worked on Agile SCRUM development cycle – code reviews, CD/CI development. 
+
 - company: San Jose State University
   link: Link to company (optional)
   job_title: Teaching Assistant

@@ -16,8 +16,9 @@
   quote: >
     Prototype of LinkedIn
   description: | # this will include new lines to allow paragraphs
-    The features of LinkedIn with Job search, people search, edit and view profile, connect, message and posting jobs. |
-    Technologies used Node JS, React JS, Redux, Passport JS, MySQL, MongoDB, Apache Kafka, Redis cache, Mocha.  |
+    The features of LinkedIn with Job search, people search, edit and view profile, connect, message and posting jobs.
+    |
+    Technologies used Node JS, React JS, Redux, Passport JS, MySQL, MongoDB, Apache Kafka, Redis cache, Mocha.
     The application was deployed to AWS environment with replication across frontend, backend servers with load balancing. 
 
 - name: Safety Quotient Predictor
