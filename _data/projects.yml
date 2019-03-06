@@ -1,16 +1,37 @@
 # Project template
-- name: Project name
+- name: A vacation reservation Portal – Prototype of HomeAway
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Prototype of HomeAway
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    The application has capability to browse through vacation homes and book the same for travelers, owners will be posting the properties to be rented out. |
+    The owner had feature to upload photos and provide description of the property. A messaging feature was made to enable communication between owner and traveler. |
+    Technologies used are Node JS, React JS, Redux, Passport JS, MySQL MongoDB, Apache Kafka, Mocha. |
+    The application was deployed to AWS with replication and load balancing.
 
-- name: Project name
+- name: LinkedIn
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Prototype of LinkedIn
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    The features of LinkedIn with Job search, people search, edit and view profile, connect, message and posting jobs. |
+    Technologies used Node JS, React JS, Redux, Passport JS, MySQL, MongoDB, Apache Kafka, Redis cache, Mocha.  |
+    The application was deployed to AWS environment with replication across frontend, backend servers with load balancing. 
+
+- name: Safety Quotient Predictor
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    #Prototype of LinkedIn
+  description: | # this will include new lines to allow paragraphs
+    The application will provide safety predictions based on past crime data. |
+    |
+    Provides an SQP score and present a visual representation of crimes. |
+    |
+    Technologies used are React JS, Python Flask, MongoDB. |
+    |
+    The application was deployed to AWS in a docker container managed by Kubernetes
+
+
