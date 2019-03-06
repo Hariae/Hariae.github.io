@@ -26,11 +26,11 @@
   quote: >
     #Prototype of LinkedIn
   description: | # this will include new lines to allow paragraphs
-    The application will provide safety predictions based on past crime data. |
+    The application will provide safety predictions based on past crime data.
     |
-    Provides an SQP score and present a visual representation of crimes. |
+    Provides an SQP score and present a visual representation of crimes. 
     |
-    Technologies used are React JS, Python Flask, MongoDB. |
+    Technologies used are React JS, Python Flask, MongoDB.
     |
     The application was deployed to AWS in a docker container managed by Kubernetes
 
