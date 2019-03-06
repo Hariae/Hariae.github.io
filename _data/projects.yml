@@ -1,6 +1,6 @@
 # Project template
 - name: A vacation reservation Portal – Prototype of HomeAway
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Prototype of HomeAway
@@ -11,8 +11,8 @@
     The application was deployed to AWS with replication and load balancing.
 
 - name: LinkedIn
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/Hariae/LinkedIn-Team1
   quote: >
     Prototype of LinkedIn
   description: | # this will include new lines to allow paragraphs
@@ -21,8 +21,8 @@
     The application was deployed to AWS environment with replication across frontend, backend servers with load balancing. 
 
 - name: Safety Quotient Predictor
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/Hariae/Safety-Quotient-Predictor
   quote: >
     #Prototype of LinkedIn
   description: | # this will include new lines to allow paragraphs
