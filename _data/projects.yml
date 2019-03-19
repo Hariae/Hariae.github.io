@@ -7,7 +7,9 @@
   description: | # this will include new lines to allow paragraphs
     The application has capability to browse through vacation homes and book the same for travelers, owners will be posting the properties to be rented out. |
     The owner had feature to upload photos and provide description of the property. A messaging feature was made to enable communication between owner and traveler. |
-    Technologies used are Node JS, React JS, Redux, Passport JS, MySQL MongoDB, Apache Kafka, Mocha. |
+    Technologies used are Node JS, React JS, Redux, Passport JS, MySQL MongoDB, Apache Kafka, Mocha. 
+    |
+    
     The application was deployed to AWS with replication and load balancing.
 
 - name: LinkedIn
