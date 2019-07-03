@@ -1,5 +1,35 @@
 # Experience template
-- company: Aspire Systems Inc
+
+Software Engineering Intern – End User Computing, VMware Inc – Palo Alto May 2019 – Present
+As a software engineering intern, I work on the Workspace ONE product. Worked on Agile SCRUM development cycle – code
+reviews, CD/CI development. The project involves development using Angular 7/Typescript.
+• Admin UI of Workspace ONE: As a software engineering intern I work with the frontend development team of VMware
+- Workspace ONE product. The project involves strong frontend development skills with Angular 7 and Typescript. In the
+intern project I am working on the modernization of Admin dashboard which involves converting legacy web app into
+Angular 7 component adhering to Clarity Design standards. 
+
+- company: VMware
+  link: Link to company (optional)
+  job_title: Software Engineering Intern
+  dates: May 2019 – Present
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    As a software engineering intern, I work on the Workspace ONE product. Worked on Agile SCRUM development cycle – code reviews, CD/CI development. 
+    The project involves development using Angular 7/Typescript. Admin UI of Workspace ONE - As a software engineering intern I work with the frontend development team of 
+    VMware Workspace ONE product. The project involves strong frontend development skills with Angular 7 and Typescript. In the intern project I am working on the modernization of Admin 
+    dashboard which involves converting legacy web app into Angular 7 component adhering to Clarity Design standards. 
+
+- company: San Jose State University, San Jose
+  link: Link to company (optional)
+  job_title: Teaching Assistant
+  dates: January 2019 to May 2019
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    I work as a Teaching assistant for the course Enterprise Distributed Systems by Professor Simon Shim. The focus of the course is distributed systems application development on MERN stack. The role involves assisting professor with assignment creation, grading, preparation of demos and collaborating with students.
+
+- company: Aspire Systems Inc, Chennai
   #link: Link to company (optional)
   job_title: Software Analyst
   dates: June 2016 to June 2018
@@ -7,12 +37,3 @@
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     As a Software Analyst I was involved in requirements gathering and managing client interactions. Involved in development, integration and deployment. Worked on Agile SCRUM development cycle – code reviews, CD/CI development. 
-
-- company: San Jose State University
-  link: Link to company (optional)
-  job_title: Teaching Assistant
-  dates: January 2019 to Present
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    I work as a Teaching assistant for the course Enterprise Distributed Systems by Professor Simon Shim. The focus of the course is distributed systems application development on MERN stack. The role involves assisting professor with assignment creation, grading, preparation of demos and collaborating with students. 
