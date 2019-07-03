@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Arivoli
+name: Arivoli AE
 title: Student at San Jose State University
 email: aehari2010@gmail.com
 phone: (669) 274-8644
@@ -16,7 +16,7 @@ github_username:  Hariae
 facebook_username: hari98
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: Arivoli A E
+linkedin_username: Arivoli AE
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
