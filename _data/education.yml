@@ -1,9 +1,18 @@
 # Education Template
-- name: San Jose State University
+- name: San Jose State University, San Jose
   dates: August 2018 - May 2020
   qualification: Master of Science, Software Engineering | GPA 3.76
   quote: >
     #Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Specialization on Enterprise Software Development and Cloud Computing. |
-    Coursework on Distributed System development – Node, React, Express, MongoDB, Kafka & AWS; Enterprise Application Development – JAVA Spring
+    Specialization: Enterprise Software Development and Cloud Computing. Coursework on Distributed System development – Node, React, Express, 
+    MongoDB, Kafka & AWS; JAVA Enterprise Application Development
+
+- name: Sastra University, India
+  dates: June 2012 – May 2016
+  qualification: Bachelor of Technology, Computer Science and Engineering
+  quote: >
+    #Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Coursework included Data Structures and Algorithms, Operating Systems, Computer Networks, Computer Architecture, JAVA Programming, Database Systems.
+

@@ -1,22 +1,19 @@
 # Project template
-- name: A vacation reservation Portal – Prototype of HomeAway
+- name: Prototype of HomeAway
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  github: /Hariae/CMPE-273
   quote: >
     Prototype of HomeAway
   description: | # this will include new lines to allow paragraphs
     The application has capability to browse through vacation homes and book the same for travelers, owners will be posting the properties to be rented out.
-    |
     
     The owner had feature to upload photos and provide description of the property. A messaging feature was made to enable communication between owner and traveler.
-    |
 
-    Technologies used are Node JS, React JS, Redux, Passport JS, MySQL MongoDB, Apache Kafka, Mocha. 
-    |
+    Technologies used are Node JS, React JS, Redux, Passport JS, MySQL MongoDB, Apache Kafka, Mocha.     
 
     The application was deployed to AWS with replication and load balancing.
 
-- name: LinkedIn
+- name: Prototype of LinkedIn
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: /Hariae/LinkedIn-Team1
   quote: >
@@ -33,8 +30,8 @@
 - name: Safety Quotient Predictor
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: /Hariae/Safety-Quotient-Predictor
-  #quote: >
-    #Prototype of LinkedIn
+  quote: >
+    Safety Quotient Predictor
   description: | # this will include new lines to allow paragraphs
     The application will provide safety predictions based on past crime data.
     |
@@ -47,4 +44,15 @@
     
     The application was deployed to AWS in a docker container managed by Kubernetes
 
+- name: Prototype of Openhack
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: /Hariae/Openhack
+  quote: >
+    Prototype of Openhack
+  description: | # this will include new lines to allow paragraphs
+
+    The features of Openhack with hackathon management, registration, submission, grading and account management 
+    |
+
+    Technologies used Java, Spring MVC, MySQL RDS, JPA, AOP, React, HTML CSS deployed to AWS environment.     
 
